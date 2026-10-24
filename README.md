@@ -1,4 +1,3 @@
-# Company-Inheritance-Polymorphism
 # Company: Inheritance and Polymorphism
 
 A C++ console project that models a company payroll system to practice **inheritance** and **polymorphism**.
